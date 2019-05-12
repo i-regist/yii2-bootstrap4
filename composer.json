@@ -1,0 +1,19 @@
+{
+    "name": "i-regist/yii2-bootstrap4",
+    "description": "The Twitter Bootstrap extension for the Yii framework",
+    "keywords": ["yii2", "bootstrap", "bootstrap4"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "support": {
+        "source": "https://github.com/i-regist/yii2-bootstrap4"
+    },
+    "require": {
+        "yiisoft/yii2": "~2.0",
+        "i-regist/yii2-bootstrap4": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "iregist\\bootstrap4\\": "src"
+        }
+    },
+}
